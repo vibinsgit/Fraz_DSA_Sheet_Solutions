@@ -25,43 +25,26 @@
     P4: Write a program to print all Armstrong numbers between 1 to n where n is the input given by the user.
 
 5. LoopPratice4 :
-    P1: Write a program to input a number and check whether the number is a Perfect number or not.
-    P2: Write a program to find all Perfect numbers between 1 to n where n is the input given by the user.
+    P1 : Write a program to input a number and check whether the number is a Perfect number or not.
+    P2 : Write a program to find all Perfect numbers between 1 to n where n is the input given by the user.
     P3 : Write a program to input a number from the user and check whether the given number is a strong number or not.
     P4 : Write a program to print all strong numbers between 1 to n where n is the input given by the user.
 
 6. Square Star and Rhombus Star Patterns:
     P1: Square Star Pattern
-    *****
-    *****
-    *****
-    *****
-    *****
 
     P2: Hollow Square Star Pattern
-    *****
-    *   *
-    *   *
-    *   *
-    *****
 
     P3: Hollow Square Star Pattern with Diagonal
-    *****
-    ** **
-    * * *
-    ** **
-    *****
 
     P4: Rhombus Star Pattern
-        *****
-       *****
-      *****
-     *****
-    *****
 
     P5: Mirrored Rhombus Star Pattern
-    *****
-     *****
-       *****
-        *****
-          *****
+
+7. Triangle Star Pattern
+
+8. Pyramid Star Pattern
+
+9. Miscellaneous Star Pattern
+
+10. Number Pattern 1
